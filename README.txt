@@ -1,1 +1,1 @@
-open with cas.jar
+open with store.jar

@@ -27,7 +27,7 @@ A Java Swing retail application for browsing and managing a small computer-perip
 The repository contains the original executable JAR. Run it from the repository root so it can locate the two data files:
 
 ```sh
-java -jar cas.jar
+java -jar store.jar
 ```
 
 Example accounts from `UserAccounts.txt`:
